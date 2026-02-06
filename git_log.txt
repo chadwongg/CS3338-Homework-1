@@ -1,0 +1,109 @@
+commit 16cbf350420d3f54e8f6e5c5671a75fef57b8ad7
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Fri Feb 6 13:46:25 2026 -0800
+
+    added back the css since it was missing on when i merged the request
+
+commit 0d05f33394138d54d127d3ea8e27522be8b4610f
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Fri Feb 6 13:43:19 2026 -0800
+
+    Update index.html
+
+commit 2f4d057bb7a87fd3e0a5fba51b0b938f3eff4e1a
+Merge: e4477b6 13305e2
+Author: chadwongg <150065578+chadwongg@users.noreply.github.com>
+Date:   Fri Feb 6 13:42:39 2026 -0800
+
+    Merge pull request #3 from chadwongg/feature-about-me
+    
+    Feature about me
+
+commit 13305e2f6abd06c82dcfeec33c4326ed0e6befe3
+Merge: 5e80faa 654a722
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Fri Feb 6 13:40:42 2026 -0800
+
+    Merge branch 'feature-about-me' of https://github.com/chadwongg/CS3338-Homework-1 into feature-about-me
+
+commit e4477b6228dce8926079d1da42f04b73cc0d0e88
+Merge: affbb46 9fd140c
+Author: chadwongg <150065578+chadwongg@users.noreply.github.com>
+Date:   Fri Feb 6 13:38:01 2026 -0800
+
+    Merge pull request #2 from wpicfish/patch-1
+    
+    Update groupmate information in index.html
+
+commit 9fd140c9145184e529804ae6b1ad353585e3e19a
+Author: wpicfish <rdiep137@gmail.com>
+Date:   Fri Feb 6 13:35:57 2026 -0800
+
+    Update groupmate information in index.html
+
+commit 5e80faaf57bf8fa749d00d302b4d7ba4a8a7ffdf
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Fri Feb 6 13:11:57 2026 -0800
+
+    Update index.html
+
+commit affbb4617a168cf713f83519855876e145ad18cf
+Merge: f37cdce 654a722
+Author: chadwongg <150065578+chadwongg@users.noreply.github.com>
+Date:   Fri Feb 6 13:11:05 2026 -0800
+
+    Merge pull request #1 from chadwongg/feature-about-me
+    
+    Feature about me
+
+commit 654a7226b7008daf2d8946b579c0bce3ec7e2eff
+Merge: 5963939 f37cdce
+Author: chadwongg <150065578+chadwongg@users.noreply.github.com>
+Date:   Fri Feb 6 13:10:46 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 59639395bac74337dcca301500b001ed52c01612
+Author: chadwongg <150065578+chadwongg@users.noreply.github.com>
+Date:   Fri Feb 6 12:52:42 2026 -0800
+
+    updated my name, favorite hobbies, food, and fun fact
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit

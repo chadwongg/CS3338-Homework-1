@@ -1,3 +1,27 @@
+commit 180b5d7e70b89729ccbf19708a4cdc6c599d5a2c
+Author: chadwongg <150065578+chadwongg@users.noreply.github.com>
+Date:   Fri Feb 6 14:09:40 2026 -0800
+
+    took the brackets off the footer where my name is
+
+commit 380eb3be5da29ffb06e1d6412f66525225a6c272
+Author: chadwongg <150065578+chadwongg@users.noreply.github.com>
+Date:   Fri Feb 6 14:08:39 2026 -0800
+
+    Create README.md
+
+commit 8cfecaae7f5b4c703ec99856008150f2428ce911
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Fri Feb 6 14:04:41 2026 -0800
+
+    added repo location file
+
+commit dd2ec07768eb2229aa52f1107d94f15b49f95b29
+Author: chadwongg <chadsimportant@gmail.com>
+Date:   Fri Feb 6 13:55:22 2026 -0800
+
+    Create git_log.txt
+
 commit 16cbf350420d3f54e8f6e5c5671a75fef57b8ad7
 Author: chadwongg <chadsimportant@gmail.com>
 Date:   Fri Feb 6 13:46:25 2026 -0800
